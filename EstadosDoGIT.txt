@@ -1,4 +1,4 @@
-Estados do GIT e comandos 
+'Estados do GIT e comandos 
 
 git init - iniando projeto.
 git status - verifica o estado e se houve modificação.
@@ -6,6 +6,11 @@ git add . - Adiciona todos os arquivo.
 git diff - Conseguimos ver as mudanças.
 git commit -m "Estados e comando do git" .
 git log - ver historico de comits.
+
+##salvando alteração
+git push - manda o arquivo.
+git pull - pega o codigo do git atualizado.
+git fetch - salva todas as alterações mas verificando com o git diff origin/master
 
 
 Unmodified - quer dizer que ele ja esta mapeado por git, ja passou pelo o Stage e foi dado o comit.
