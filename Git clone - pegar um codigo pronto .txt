@@ -1,0 +1,4 @@
+Git clone - pegar um codigo pronto no git.
+1- Copiar o codigo https do git.
+2- abrir o cmd na pasta desejada para colocar o arquivo
+3- Git Clone (link HTTPS que pegou no git)

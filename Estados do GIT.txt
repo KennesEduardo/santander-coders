@@ -1,0 +1,6 @@
+Estados do GIT
+
+Unmodified - quer dizer que ele ja esta mapeado por git, ja passou pelo o Stage e foi dado o comit.
+
+Modified - Quando voce pega um arquivo e o modifica, exemplo clone de um codigo seu e o altera. 
+
