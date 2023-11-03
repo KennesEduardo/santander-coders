@@ -6,11 +6,10 @@ git add . - Adiciona todos os arquivo.
 git diff - Conseguimos ver as mudanças.
 git commit -m "Estados e comando do git" .
 git log - ver historico de comits.
-git restore --staged (pode se usado para retornar estados em area de staged)
 
 
 Unmodified - quer dizer que ele ja esta mapeado por git, ja passou pelo o Stage e foi dado o comit.
 
 Modified - Quando voce pega um arquivo e o modifica, exemplo clone de um codigo seu e o altera. 
 
-*Usando do comando git restore
+*Uso do comando restore
