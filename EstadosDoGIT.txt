@@ -12,6 +12,10 @@ git push - manda o arquivo.
 git pull - pega o codigo do git atualizado.
 git fetch - salva todas as alterações mas verificando com o git diff origin/master
 
+#branch
+
+git branch (nome que voce quer)- cria novas branch
+git log --oneline --decorate -usado para saber em quam branch estou
 
 Unmodified - quer dizer que ele ja esta mapeado por git, ja passou pelo o Stage e foi dado o comit.
 
